@@ -1,6 +1,6 @@
 # hello, world
 
-I study in Netology
+I study 
 
 15.04.2024
 
